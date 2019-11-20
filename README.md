@@ -22,3 +22,7 @@ Listaverkið á að vera þannig að jólasveinn úr pappa veifar stöðugt og e
 ## Námsmat
 - Fyrir fullkomna lausn á grunnkröfunum og skýrslu er mest hægt að fá 6 í einkunn.
 - Síðan verður 1 til viðbótar gefinn fyrir hverja aukakröfu sem leyst er. 
+
+## Bjargir
+- [Servo mótor](servo.ino)
+- [Sonic skynjari](sonic.ino)

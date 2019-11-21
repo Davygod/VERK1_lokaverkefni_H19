@@ -26,3 +26,4 @@ Listaverkið á að vera þannig að jólasveinn úr pappa veifar stöðugt og e
 ## Bjargir
 - [Servo mótor](servo.ino)
 - [Sonic skynjari](sonic.ino)
+- [Spila lög með arduino](https://www.arduino.cc/en/Tutorial/toneMelody) og [nokkur jólalög](https://create.arduino.cc/projecthub/joshi/piezo-christmas-songs-fd1ae9).

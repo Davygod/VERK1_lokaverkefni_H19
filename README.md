@@ -9,6 +9,8 @@ Haltu utan um verkefnið í nýrri lokaðri geymslu (*e. private repository*) á
 # Veifandi jólasveinn
 Nú er að byrja annasamasti tími ársins hjá jólasveinunum og verða þeir á næstu vikum langtímum saman að heiman. Jólakötturinn er því mikið einn heima og því vantar eitthvað til að kettinum leiðist ekki mikið. Jólasveinarnir hafa því beðið þig um að hanna og smíða gagnvirka listaverkið "*Veifandi jólasveinn*" fyrir köttinn. 
 
+![jólasveinn](jolasveinn.gif)
+
 ## Grunnkröfur
 Listaverkið á að vera þannig að jólasveinn úr pappa veifar stöðugt og ef kötturinn kemur nær listaverkinu en 1 meter þá spilar listaverkið jólalag.
 
